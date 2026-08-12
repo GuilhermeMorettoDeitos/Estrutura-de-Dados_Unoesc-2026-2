@@ -20,16 +20,10 @@ public class Main {
 
         for(Cliente cliente : clientes){
             System.out.println("Dados da conta: " + cliente.getDadosConta());
-        }
-        System.out.println();
-
-        for(Cliente cliente : clientes){
             System.out.println("Saldo devedor: " + cliente.getSaldoDevedor());
-        }
-        System.out.println();
-
-        for(Cliente cliente : clientes){
             System.out.println("Saldo + Crédito: " + cliente.funciton2());
+
+            System.out.println();
         }
 
     }

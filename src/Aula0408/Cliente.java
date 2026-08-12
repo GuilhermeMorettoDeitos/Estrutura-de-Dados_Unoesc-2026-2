@@ -26,7 +26,8 @@ public class Cliente {
     }
 
     public String getDadosConta(){
-        return "Dados: " + nome + " - " + conta;
+
+        return nome + " - " + conta + " - " + idCliente + " - " + agencia + " - " + saldo;
     }
 
     public double funciton2(){
