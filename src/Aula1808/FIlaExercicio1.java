@@ -3,7 +3,7 @@ package Aula1808;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class GerenciadorDocumentosExercicio1Fila {
+public class FIlaExercicio1 {
 
     public static void main(String[] args){
 

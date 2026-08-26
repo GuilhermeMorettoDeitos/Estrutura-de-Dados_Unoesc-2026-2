@@ -3,7 +3,7 @@ package Aula1808;
 import java.util.ArrayList;
 import java.util.List;
 
-public class GerenciadorTarefasEcercicio4 {
+public class ListaExercicio4 {
 
     public static void main(String[] args){
 

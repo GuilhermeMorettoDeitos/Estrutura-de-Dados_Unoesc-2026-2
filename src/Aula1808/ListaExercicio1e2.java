@@ -3,7 +3,7 @@ package Aula1808;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ListaConvidadosExercicio1 {
+public class ListaExercicio1e2 {
 
     public static void main(String[] args){
         //exercicio 1.

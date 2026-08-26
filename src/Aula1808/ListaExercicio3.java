@@ -3,7 +3,7 @@ package Aula1808;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CarrinhoDeComprasExercicio3 {
+public class ListaExercicio3 {
 
     public static void main(String[] args){
 
