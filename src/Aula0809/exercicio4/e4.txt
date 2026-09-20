@@ -1,0 +1,1 @@
+organização de um catálogo de produtos indexados por um código numérico utilizando uma Árvore Binária de Busca (BST), permitindo inserção, busca por código, remoção, exibição dos produtos em ordem crescente de código e o cálculo da altura da árvore.

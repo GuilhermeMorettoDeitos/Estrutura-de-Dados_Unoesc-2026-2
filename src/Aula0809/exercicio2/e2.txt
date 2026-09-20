@@ -1,0 +1,1 @@
+gerenciamento da fila de um hospital onde pacientes com maior grau de urgência (1 a 5) são atendidos primeiro e, em caso de empate de urgência, atende-se por ordem de chegada.

@@ -1,0 +1,1 @@
+simulação dos botões "Voltar" e "Avançar" de um navegador web utilizando duas estruturas de pilha (uma para o histórico de navegação posterior e outra para o anterior).

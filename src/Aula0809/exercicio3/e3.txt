@@ -1,0 +1,1 @@
+Pede um sistema para gerenciar alunos de um curso utilizando uma lista encadeada, cobrindo inserção, remoção por matrícula, busca, listagem e identificação do aluno com maior e menor média.
