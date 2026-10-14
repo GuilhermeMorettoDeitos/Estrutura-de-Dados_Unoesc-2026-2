@@ -2,18 +2,15 @@ package Aula2909.listaExercicios.e01;
 
 public class Crescente {
 
-    public static void crescente(int ate){
-        if(1 > ate){
-            return;
+    public static void contarCrescente(int atual, int ate){
+        System.out.println(atual);
+        if(atual < ate){
+            contarCrescente(atual+1, ate);
         }
-
-        System.out.println(ate);
-        crescente(ate-1);
-
     }
 
     public static void main(String[] args){
-        crescente(20);
+        contarCrescente(1, 10);
     }
 
 }
