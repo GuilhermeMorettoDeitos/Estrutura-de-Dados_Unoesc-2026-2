@@ -1,4 +1,4 @@
-package Aula2710.Exercicios.e3;
+package Aula2710.Exercicios.ArraysSort.e3;
 
 import java.util.Arrays;
 import java.util.Scanner;

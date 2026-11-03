@@ -1,4 +1,4 @@
-package Aula2710.Exercicios.e1;
+package Aula2710.Exercicios.ArraysSort.e1;
 
 import java.util.Arrays;
 
